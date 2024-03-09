@@ -1,0 +1,10 @@
+
+git init
+git add README.md
+git status
+git add src or *
+git commit -m "My commit"
+
+git branch -M main or Master
+git remote add origin https://github.com/thedevnorms/udemy.git
+git push -u origin main
