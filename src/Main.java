@@ -13,9 +13,6 @@ public class Main {
         //System.out.println(methodOverloading.addNumbers(2,3,4));
         //Arrays arrays = new Arrays();
         // Strings Mutable vs Immutable.
-       /* String str = new String("Hello"); //Its equivalent to String str = "Hello";
-        System.out.println(str.charAt(1)+str.concat(" Mohsin"));
-        main(null,"Main Static Method is Overrided");*/
         //JavaStrings javaStrings = new JavaStrings();
         //StaticClass staticClass = new StaticClass();
         MyEncapsulationClass myEncapsulationClass = new MyEncapsulationClass();
@@ -24,11 +21,5 @@ public class Main {
        // System.out.println(methodOverloading.addNumbers(2,3,4));
        // Arrays arrays = new Arrays();
         //main(null,"abc");
-    }
-
-    public static  void main(String[] args , String abc)
-    {
-        System.out.println(abc);
-        System.out.println("helllo");
     }
 }
