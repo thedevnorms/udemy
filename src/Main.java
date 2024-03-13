@@ -8,7 +8,6 @@ public class Main {
         //Operators operators = new Operators();
         //ConditionalStatement conditionalStatement = new ConditionalStatement();
         //Loops loops = new Loops();
-D
         //MethodOverloading methodOverloading = new MethodOverloading();
         //System.out.println(methodOverloading.addNumbers(2,3));
         //System.out.println(methodOverloading.addNumbers(2,3,4));
@@ -20,10 +19,10 @@ D
         //JavaStrings javaStrings = new JavaStrings();
         //StaticClass staticClass = new StaticClass();
         MyEncapsulationClass myEncapsulationClass = new MyEncapsulationClass();
-        MethodOverloading methodOverloading = new MethodOverloading();
+        //MethodOverloading methodOverloading = new MethodOverloading();
       // System.out.println(methodOverloading.addNumbers(2,3));
        // System.out.println(methodOverloading.addNumbers(2,3,4));
-        Arrays arrays = new Arrays();
+       // Arrays arrays = new Arrays();
         //main(null,"abc");
     }
 
