@@ -1,5 +1,6 @@
 package basics;
 
+<<<<<<< HEAD
 class Studuent{
 
     int rollno;
@@ -7,10 +8,13 @@ class Studuent{
     String className;
 }
 
+=======
+>>>>>>> b8afc83c87ae2c5ab65ca2de58fe1738040c7a57
 public class Arrays {
 
     public  Arrays()
     {
+<<<<<<< HEAD
         Studuent s1 = new Studuent();
         s1.name = "Mohsin";
         s1.rollno = 1;
@@ -33,6 +37,8 @@ public class Arrays {
             System.out.println("Name : "+ std.name+" Roll No "+std.rollno+" Class "+std.className);
 
 
+=======
+>>>>>>> b8afc83c87ae2c5ab65ca2de58fe1738040c7a57
         //When you already know the values
         int arr1[] = {2,3,4,5};
         System.out.println(arr1[1]);
