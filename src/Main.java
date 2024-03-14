@@ -21,6 +21,8 @@ public class Main {
        // System.out.println(methodOverloading.addNumbers(2,3,4));
         //MultiLevelInheritance multiLevelInheritance = new MultiLevelInheritance();
         //System.out.println(multiLevelInheritance.add(15,3)+ " "+ multiLevelInheritance.calPower(2,5));
-        ThisAndSuper thisAndSuper = new ThisAndSuper();
+       // ThisAndSuper thisAndSuper = new ThisAndSuper();
+       // DynamicMethodDispatch dynamicMethodDispatch = new DynamicMethodDispatch();
+        FinalKeyword finalKeyword = new FinalKeyword();
     }
 }
