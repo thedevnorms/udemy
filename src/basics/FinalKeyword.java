@@ -22,6 +22,11 @@ class BBB extends AAA{
     }
 }
 public class FinalKeyword {
+
+    int num = 10;
+    Integer num1 = num; // auto boxing
+    int num2 = num1; // auto-unboxing
+
     public FinalKeyword(){
         final int num = 10;
         BBB bbb = new BBB();
