@@ -1,4 +1,6 @@
+import basics.AnonymousClass;
 import basics.FinalKeyword;
+import basics.InnerClasses;
 
 public class MainBasicsPackage {
 
@@ -22,6 +24,10 @@ public class MainBasicsPackage {
         //System.out.println(multiLevelInheritance.add(15,3)+ " "+ multiLevelInheritance.calPower(2,5));
         // ThisAndSuper thisAndSuper = new ThisAndSuper();
         // DynamicMethodDispatch dynamicMethodDispatch = new DynamicMethodDispatch();
-        FinalKeyword finalKeyword = new FinalKeyword();
+        //FinalKeyword finalKeyword = new FinalKeyword();
+        //AbstractKeyword abstractKeyword = new AbstractKeyword();
+        //InnerClasses innerClasses = new InnerClasses();
+        AnonymousClass anonymousClass = new AnonymousClass();
+
     }
 }
