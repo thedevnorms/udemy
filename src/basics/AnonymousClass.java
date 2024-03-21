@@ -5,6 +5,12 @@ class AnonymousA{
         System.out.println("Anonymous Show A");
     }
 }
+///Object of Abstract Class
+
+abstract class AnonymousAA{
+    public abstract void show();
+}
+
 public class AnonymousClass {
     public AnonymousClass(){
         AnonymousA anonymousA = new AnonymousA(){
@@ -18,5 +24,13 @@ public class AnonymousClass {
             }
         };
         anonymousA.showMe();
+        AnonymousAA anonymousAA = new AnonymousAA() {
+            @Override
+            public void show() {
+                System.out.println("Anonymous Abstract class method.");
+            }
+        };
+        anonymousAA.show();
+
     }
 }

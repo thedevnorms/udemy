@@ -1,6 +1,4 @@
-import basics.AnonymousClass;
-import basics.FinalKeyword;
-import basics.InnerClasses;
+import basics.*;
 
 public class MainBasicsPackage {
 
@@ -27,7 +25,9 @@ public class MainBasicsPackage {
         //FinalKeyword finalKeyword = new FinalKeyword();
         //AbstractKeyword abstractKeyword = new AbstractKeyword();
         //InnerClasses innerClasses = new InnerClasses();
-        AnonymousClass anonymousClass = new AnonymousClass();
+        //AnonymousClass anonymousClass = new AnonymousClass();
+        InterfaceAndClass interfaceAndClass = new InterfaceAndClass();
+        EnumerationConcept enumerationConcept = new EnumerationConcept();
 
     }
 }
