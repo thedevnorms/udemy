@@ -1,3 +1,4 @@
+import advanced.FunctionalInterfaceAndLambda;
 import basics.*;
 
 public class MainBasicsPackage {
@@ -21,13 +22,14 @@ public class MainBasicsPackage {
         //MultiLevelInheritance multiLevelInheritance = new MultiLevelInheritance();
         //System.out.println(multiLevelInheritance.add(15,3)+ " "+ multiLevelInheritance.calPower(2,5));
         // ThisAndSuper thisAndSuper = new ThisAndSuper();
-        // DynamicMethodDispatch dynamicMethodDispatch = new DynamicMethodDispatch();
+         DynamicMethodDispatch dynamicMethodDispatch = new DynamicMethodDispatch();
         //FinalKeyword finalKeyword = new FinalKeyword();
         //AbstractKeyword abstractKeyword = new AbstractKeyword();
         //InnerClasses innerClasses = new InnerClasses();
         //AnonymousClass anonymousClass = new AnonymousClass();
-        InterfaceAndClass interfaceAndClass = new InterfaceAndClass();
-        EnumerationConcept enumerationConcept = new EnumerationConcept();
+        //InterfaceAndClass interfaceAndClass = new InterfaceAndClass();
+        //EnumerationConcept enumerationConcept = new EnumerationConcept();
+
 
     }
 }
